@@ -36,6 +36,10 @@ ul {
     list-style: none
 }
 
+.list li {
+    list-style: circle;
+}
+
 a {
     text-decoration: none
 }
