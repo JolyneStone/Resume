@@ -1,5 +1,5 @@
 # Resume
-个人简历模板 —— modify from [DIYgod](https://github.com/DIYgod/Resume)
+个人简历模板
 
 
 ## Usage
@@ -9,5 +9,4 @@
 1. 在 `index.html` 文件中填写你的信息
 1. 生成PDF（以 OS X 操作系统 Chrome 浏览器为例）：打开`文件->打印`，设置布局为纵向，纸张尺寸为A3，边距无，背景图片选项打钩，保存；压缩PDF，推荐在线压缩工具[smallpdf](http://smallpdf.com/cn/compress-pdf)；将压缩过的PDF文件放在根目录内
 1. 如果想要在PDF中添加链接，可使用Adobe Acrobat或福昕阅读器进行编辑
-1. 部署上线
-1. Enjoy it!
+
