@@ -329,6 +329,14 @@ footer a {
     animation: throb 1.33s ease-in-out infinite
 }
 
+.float-right{
+    float: right;
+}
+
+.float-left{
+    float: left;
+}
+
 @-webkit-keyframes throb {
     0%,
     100% {
